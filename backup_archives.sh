@@ -2,9 +2,9 @@
 
 # Define variables
 group_number="24"
-archive_dir="archived_logs_group${group_number}"
-remote_host="your_remote_host"  # Replace with your sandbox host info
-remote_username="your_remote_username"  # Replace with your sandbox username
+archive_dir="archived_logs_group24"
+remote_host="e683b63e5434.15cf1724.alu-cod.online"
+remote_username="e683b63e5434"
 remote_directory="/home/"
 
 # Create archive directory if it doesn't exist
