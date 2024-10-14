@@ -7,7 +7,7 @@ remote_host="your_remote_host"  # Replace with your sandbox host info
 remote_username="your_remote_username"  # Replace with your sandbox username
 remote_directory="/home/"
 
-# Create the archive directory if it doesn't exist
+# Create archive directory if it doesn't exist
 mkdir -p "$archive_dir"
 
 # Move all archived log files into the archive directory
