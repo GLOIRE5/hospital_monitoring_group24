@@ -10,7 +10,7 @@ remote_directory="/home/"
 # Create archive directory if it doesn't exist
 mkdir -p "$archive_dir"
 
-# Move all archived log files into the archive directory
+# Move all archived log files into archive directory
 mv heart_rate_log.txt_* "$archive_dir/" 2>/dev/null
 
 # Check if files were moved
