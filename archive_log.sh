@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Set the log file name
+# Set the log  file name to heart_rate_log.txt
 log_file="heart_rate_log.txt"
 
 # Check if the log file exists
